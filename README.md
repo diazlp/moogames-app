@@ -6,7 +6,7 @@ This web apps is final project to my ReactJS program course on Sanbercode © and
 
 I also added a few more small feature as a cherry on top of it. 
 
-The following is to guide readers to the [Moogames App] (https://morning-hollows-84886.herokuapp.com/)
+The following is to guide readers to the [Moogames App](https://morning-hollows-84886.herokuapp.com/)
 
 ## Running it in your local server
 
@@ -39,7 +39,7 @@ You can look up how to set up a database on MongoDB and/or connecting the databa
 
 and the, run the app in the development mode with 
 
-### `npm run dev on the /server directory`
+### `npm run dev` on the /server directory
 
 The page will reload AUTOMATICALLY when you make changes.
 
